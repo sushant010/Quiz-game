@@ -1,0 +1,31 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#D2DAFF;
+}
+
+.container {
+    width: 30rem;
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+
+.col {
+    text-align: justify;
+    padding: 15px;
+    width: 90%;
+}
+
+#submit {
+    width: 100%;
+    background-color: #47B5FF;
+    color: white;
+    border: none;
+    font-size: 25px;
+    padding: 10px;
+}
